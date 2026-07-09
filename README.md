@@ -42,7 +42,13 @@ Personal portfolio built with React and Tailwind, bundled with Vite, deployed on
 
 **[Ledger — Expense Tracker](https://github.com/mubarakg1/expense-tracker)**
 Full-stack expense tracker with JWT auth, category budgets with over/near-budget alerts, and a dashboard with spending analytics (category breakdown + trend charts).
-`Node.js` `Express` `React` `JWT` `Recharts`---
+`Node.js` `Express` `React` `JWT` `Recharts`
+
+**[Smart Nutrition System](https://veteranalpha.github.io/smart-nutrition/)**
+An AI-powered nutrition recommendation system built with JavaScript, featuring Claude AI integration for personalized meal recommendations and secure user authentication.
+`Node.js` `Javascript` `Tailwind CSS` `Claude AI API` `Firebase Authentication` 
+
+---
 
 ### 📊 GitHub Stats
 
