@@ -40,10 +40,9 @@ Full-stack team engagement tool. Processes shared links, generates categorized r
 Personal portfolio built with React and Tailwind, bundled with Vite, deployed on Vercel.
 `React` `Tailwind CSS` `Vite`
 
-**[Project 3 — add here]**
-_Next build: something with a database + deployed live demo._
-
----
+**[Ledger — Expense Tracker](https://github.com/mubarakg1/expense-tracker)**
+Full-stack expense tracker with JWT auth, category budgets with over/near-budget alerts, and a dashboard with spending analytics (category breakdown + trend charts).
+`Node.js` `Express` `React` `JWT` `Recharts`---
 
 ### 📊 GitHub Stats
 
