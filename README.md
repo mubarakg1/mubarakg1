@@ -1,21 +1,55 @@
-Hi, I'm Mubarak 
-A software Engineer(Computer Engineeering, First Class graduate) building full-stack web application. I enjoy turning messy, manual workflows into clean, usable tools.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=MUBARAK%20GIWA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=20" width="100%"/></div>
 
-B.eng. Computer Engineeering - first Class Honours (CGPA 4.51/5.00, top 2% of class)
-Currently building projecta with Javascript, Typescript, Node.js, React
-Led GDSc Campus (Google Developer Studemt Clubs) - organized a 700+ attendee tech event 
-Open to Software Engineering internship opportunities
+###  About Me
 
-Tech Stack
-Languages: Javascript, Typescript, Phython, C++
-Frontend: React, Tailwind css, vite
-Backend: Node.js, Express
-Tools: Git, Render, vercel, Rest APis, 
-
-Featured Projects
-
-YAPASSIST
-github.com/mubarakg1/yapassist
-A full-stack team engagement tool built with Node.js and Express. Processes shared links. generates categorized responses and tracks per account engagemnt history for a team. Deployyed on render with multi-user authentication and a dark mode/light mode ui
+- 🎓 First Class B.Eng. Computer Engineering — CGPA 4.51/5.00, **top 2% of class**
+- 🌍 GDSC (Google Developer Student Clubs) Campus Lead — organized a **700+ attendee** tech event
+- 🏛️ Engineering Student Council, Academic Director
+- 🛠️ Currently building full-stack apps with **JavaScript/TypeScript, Node.js, React**
+- 💼 Experience: Frontend React/js -  Backend Node/Express - Embedded systems
+- 📌 Open to **Software Engineering Internship** opportunities
+- 📫 Reach me: mubarakgiwa72@gmail.com · www.linkedin.com/in/mubarak-giwa
 
 
+---
+
+### 🔧 Skills
+
+ <div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+### 💼 Featured Projects
+
+**[YAPASSIST](https://github.com/mubarakg1/yapassist)**
+Full-stack team engagement tool. Processes shared links, generates categorized responses, and tracks per-account engagement history. Multi-user authentication, dark/light UI, deployed on Render.
+`Node.js` `Express` `Auth`
+
+**[Portfolio Site](https://github.com/mubarakg1/mubarak-portfolio)**
+Personal portfolio built with React and Tailwind, bundled with Vite, deployed on Vercel.
+`React` `Tailwind CSS` `Vite`
+
+**[Project 3 — add here]**
+_Next build: something with a database + deployed live demo._
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mubarakg1&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mubarakg1&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
